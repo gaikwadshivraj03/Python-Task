@@ -1,4 +1,4 @@
-f = open(r"F:\Final\Template\New folder\access_log", "r")
+f = open(r"F:\Final\Template\New folder\Task\access_log", "r")
 list1=f.read().split()
 t=0
 tt=0
